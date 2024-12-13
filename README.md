@@ -1,4 +1,4 @@
-# 코딩테스트 자료 (Coding Test Study)
+# 코딩테스트 (Coding Test Study)
 
 ## 📌 목적
 - **코딩 테스트** 준비를 체계적으로 하기 위한 스터디입니다.
