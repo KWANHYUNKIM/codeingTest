@@ -2,28 +2,20 @@ import java.util.*;
 import java.io.*;
 
 public class p2033 {
+    static int result = 0;
     public static void main(String args[]) throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        int N = Integer.parseInt(br.readLine());
-        int count = String.valueOf(N).length();
-        String value = "";
-        for(int i = 1 ; i < count ; i++){
+        int N = Integer.parseInt(br.readLine()); // 15 , 446
+        int count = String.valueOf(N).length(); // 2자릿수, 3자릿수
 
-            if(i == 1){
-                value += "1";
-            }
-            else{
-                value += "0";
-            }
+        int result = N;
+        int place = 10;
+
+        for(int i = 1 ; i < count; i++){
+            result = (int) Math.round((double) result / place) * place;
+            place *= 10;
         }
-        
-        int result = Integer.parseInt(value);
-
-        System.out.println(customRound(N,result));
-    }
-    public static int customRound(int number, int place){
-
-        return Math.round((float) number / place) * place;
+        System.out.println(result);
     }
 }

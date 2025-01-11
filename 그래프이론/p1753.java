@@ -13,6 +13,10 @@ class Edge implements Comparable<Edge> {
     public int compareTo(Edge other) {
         return this.weight - other.weight; // 가중치 기준 오름차순 정렬
     }
+    @Override
+    public String toString() {
+        return "{to: " + to + ", weight: " + weight + "}";
+    }
 }
 
 public class p1753 {
@@ -41,7 +45,9 @@ public class p1753 {
             int w = Integer.parseInt(st.nextToken());
             graph.get(u).add(new Edge(v, w));
         }
-
+        for (int i = 0; i < graph.size(); i++) {
+            System.out.println("Node " + i + ": " + graph.get(i));
+        }        
         // 다익스트라 실행
         int[] dist = dijkstra(V, start, graph);
 
