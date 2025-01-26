@@ -21,6 +21,13 @@ public class a16929 {
         for (int i = 0; i < N; i++) {
             matrix[i] = br.readLine().toCharArray();
         }
+        
+        for(int i = 0 ; i < N; i++){
+            for(int j = 0; j < M; j++){
+                System.out.print(matrix[i][j] + " ");
+            }
+            System.out.println();
+        }
 
         for (int i = 0; i < N; i++) {
             for (int j = 0; j < M; j++) {
