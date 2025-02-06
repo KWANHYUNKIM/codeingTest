@@ -38,10 +38,6 @@ public class p15723 {
             // DFS 탐색으로 참/거짓 판별
             boolean result = dfs(start, end);
 
-            // 디버깅: 결과 확인
-            //System.out.println("DFS from " + start + " to " + end + ": " + result);
-            //System.out.println("Visited: " + visited);
-
             if (result) {
                 System.out.println("T");
             } else {
