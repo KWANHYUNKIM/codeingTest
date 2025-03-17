@@ -1,12 +1,14 @@
 import java.util.*;
 import java.io.*;
 
-public class p1309 {
+public class p16395{
     public static void main(String args[]) throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int N = Integer.parseInt(br.readLine());
-        
-        int dp[][] = new int [N][2];
 
+        String input[] = br.readLine().split(" ");
+        int N = Integer.parseInt(input[0]);
+        int K = Integer.parseInt(input[1]);
+
+        
     }
 }
