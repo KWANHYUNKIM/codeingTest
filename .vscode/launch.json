@@ -1,0 +1,1877 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "a1027",
+            "request": "launch",
+            "mainClass": "a1027",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a11057",
+            "request": "launch",
+            "mainClass": "a11057",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a11140",
+            "request": "launch",
+            "mainClass": "a11140",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a1260",
+            "request": "launch",
+            "mainClass": "a1260",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a1331",
+            "request": "launch",
+            "mainClass": "a1331",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a13414",
+            "request": "launch",
+            "mainClass": "a13414",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a13549",
+            "request": "launch",
+            "mainClass": "a13549",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a1374",
+            "request": "launch",
+            "mainClass": "a1374",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a1406",
+            "request": "launch",
+            "mainClass": "a1406",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a14284",
+            "request": "launch",
+            "mainClass": "a14284",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a14442",
+            "request": "launch",
+            "mainClass": "a14442",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a1613",
+            "request": "launch",
+            "mainClass": "a1613",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a16929",
+            "request": "launch",
+            "mainClass": "a16929",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a1699",
+            "request": "launch",
+            "mainClass": "a1699",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a17070",
+            "request": "launch",
+            "mainClass": "a17070",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a17129",
+            "request": "launch",
+            "mainClass": "a17129",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a17141",
+            "request": "launch",
+            "mainClass": "a17141",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a1863",
+            "request": "launch",
+            "mainClass": "a1863",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a1976",
+            "request": "launch",
+            "mainClass": "a1976",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a2002",
+            "request": "launch",
+            "mainClass": "a2002",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a20055",
+            "request": "launch",
+            "mainClass": "a20055",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a2156",
+            "request": "launch",
+            "mainClass": "a2156",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a2178",
+            "request": "launch",
+            "mainClass": "a2178",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a2412",
+            "request": "launch",
+            "mainClass": "a2412",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a2422",
+            "request": "launch",
+            "mainClass": "a2422",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a2567",
+            "request": "launch",
+            "mainClass": "a2567",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a2660",
+            "request": "launch",
+            "mainClass": "a2660",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a2749",
+            "request": "launch",
+            "mainClass": "a2749",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a30458",
+            "request": "launch",
+            "mainClass": "a30458",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a3085",
+            "request": "launch",
+            "mainClass": "a3085",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "a9536",
+            "request": "launch",
+            "mainClass": "a9536",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1003",
+            "request": "launch",
+            "mainClass": "p1003",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1010",
+            "request": "launch",
+            "mainClass": "p1010",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p10157",
+            "request": "launch",
+            "mainClass": "p10157",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p10159",
+            "request": "launch",
+            "mainClass": "p10159",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p10163",
+            "request": "launch",
+            "mainClass": "p10163",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p10211",
+            "request": "launch",
+            "mainClass": "p10211",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1027",
+            "request": "launch",
+            "mainClass": "p1027",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p10282",
+            "request": "launch",
+            "mainClass": "p10282",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p10451",
+            "request": "launch",
+            "mainClass": "p10451",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p10546",
+            "request": "launch",
+            "mainClass": "p10546",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1058",
+            "request": "launch",
+            "mainClass": "p1058",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p10709",
+            "request": "launch",
+            "mainClass": "p10709",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p10775",
+            "request": "launch",
+            "mainClass": "p10775",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p10810",
+            "request": "launch",
+            "mainClass": "p10810",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p10813",
+            "request": "launch",
+            "mainClass": "p10813",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p10826",
+            "request": "launch",
+            "mainClass": "p10826",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p10844",
+            "request": "launch",
+            "mainClass": "p10844",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p10882",
+            "request": "launch",
+            "mainClass": "p10882",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p10990",
+            "request": "launch",
+            "mainClass": "p10990",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p10994",
+            "request": "launch",
+            "mainClass": "p10994",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p10995",
+            "request": "launch",
+            "mainClass": "p10995",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p10996",
+            "request": "launch",
+            "mainClass": "p10996",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p11",
+            "request": "launch",
+            "mainClass": "p11",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p11004",
+            "request": "launch",
+            "mainClass": "p11004",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p11052",
+            "request": "launch",
+            "mainClass": "p11052",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p11053",
+            "request": "launch",
+            "mainClass": "p11053",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p11054",
+            "request": "launch",
+            "mainClass": "p11054",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p11057",
+            "request": "launch",
+            "mainClass": "p11057",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p11140",
+            "request": "launch",
+            "mainClass": "p11140",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p11404",
+            "request": "launch",
+            "mainClass": "p11404",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p11437",
+            "request": "launch",
+            "mainClass": "p11437",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1149",
+            "request": "launch",
+            "mainClass": "p1149",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p11779",
+            "request": "launch",
+            "mainClass": "p11779",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1238",
+            "request": "launch",
+            "mainClass": "p1238",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1240",
+            "request": "launch",
+            "mainClass": "p1240",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1245",
+            "request": "launch",
+            "mainClass": "p1245",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1261",
+            "request": "launch",
+            "mainClass": "p1261",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p12834",
+            "request": "launch",
+            "mainClass": "p12834",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p128541",
+            "request": "launch",
+            "mainClass": "p128541",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p12886",
+            "request": "launch",
+            "mainClass": "p12886",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p13015",
+            "request": "launch",
+            "mainClass": "p13015",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1309",
+            "request": "launch",
+            "mainClass": "p1309",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p13116",
+            "request": "launch",
+            "mainClass": "p13116",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1325",
+            "request": "launch",
+            "mainClass": "p1325",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1331",
+            "request": "launch",
+            "mainClass": "p1331",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p13335",
+            "request": "launch",
+            "mainClass": "p13335",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p13414",
+            "request": "launch",
+            "mainClass": "p13414",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p13424",
+            "request": "launch",
+            "mainClass": "p13424",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p13460",
+            "request": "launch",
+            "mainClass": "p13460",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p13510",
+            "request": "launch",
+            "mainClass": "p13510",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p13549",
+            "request": "launch",
+            "mainClass": "p13549",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p13565",
+            "request": "launch",
+            "mainClass": "p13565",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1374",
+            "request": "launch",
+            "mainClass": "p1374",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p13883",
+            "request": "launch",
+            "mainClass": "p13883",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p13913",
+            "request": "launch",
+            "mainClass": "p13913",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1405",
+            "request": "launch",
+            "mainClass": "p1405",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1406",
+            "request": "launch",
+            "mainClass": "p1406",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p14226",
+            "request": "launch",
+            "mainClass": "p14226",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p14244",
+            "request": "launch",
+            "mainClass": "p14244",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p14267",
+            "request": "launch",
+            "mainClass": "p14267",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p14284",
+            "request": "launch",
+            "mainClass": "p14284",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p14395",
+            "request": "launch",
+            "mainClass": "p14395",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p14426",
+            "request": "launch",
+            "mainClass": "p14426",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p14442",
+            "request": "launch",
+            "mainClass": "p14442",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p14496",
+            "request": "launch",
+            "mainClass": "p14496",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p14497",
+            "request": "launch",
+            "mainClass": "p14497",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p14562",
+            "request": "launch",
+            "mainClass": "p14562",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p14563",
+            "request": "launch",
+            "mainClass": "p14563",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p14675",
+            "request": "launch",
+            "mainClass": "p14675",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p14725",
+            "request": "launch",
+            "mainClass": "p14725",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p14889",
+            "request": "launch",
+            "mainClass": "p14889",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p14938",
+            "request": "launch",
+            "mainClass": "p14938",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p14940",
+            "request": "launch",
+            "mainClass": "p14940",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1504",
+            "request": "launch",
+            "mainClass": "p1504",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1507",
+            "request": "launch",
+            "mainClass": "p1507",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1525",
+            "request": "launch",
+            "mainClass": "p1525",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p15272",
+            "request": "launch",
+            "mainClass": "p15272",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p15552",
+            "request": "launch",
+            "mainClass": "p15552",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p15653",
+            "request": "launch",
+            "mainClass": "p15653",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p15686",
+            "request": "launch",
+            "mainClass": "p15686",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p15723",
+            "request": "launch",
+            "mainClass": "p15723",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p15894",
+            "request": "launch",
+            "mainClass": "p15894",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p15900",
+            "request": "launch",
+            "mainClass": "p15900",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p15989",
+            "request": "launch",
+            "mainClass": "p15989",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p159890",
+            "request": "launch",
+            "mainClass": "p159890",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p15990",
+            "request": "launch",
+            "mainClass": "p15990",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p16032",
+            "request": "launch",
+            "mainClass": "p16032",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1613",
+            "request": "launch",
+            "mainClass": "p1613",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p16173",
+            "request": "launch",
+            "mainClass": "p16173",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p16234",
+            "request": "launch",
+            "mainClass": "p16234",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p16236",
+            "request": "launch",
+            "mainClass": "p16236",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p16395",
+            "request": "launch",
+            "mainClass": "p16395",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p165505",
+            "request": "launch",
+            "mainClass": "p165505",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p16928",
+            "request": "launch",
+            "mainClass": "p16928",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p16929",
+            "request": "launch",
+            "mainClass": "p16929",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p16946",
+            "request": "launch",
+            "mainClass": "p16946",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p16954",
+            "request": "launch",
+            "mainClass": "p16954",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p16959",
+            "request": "launch",
+            "mainClass": "p16959",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p16964",
+            "request": "launch",
+            "mainClass": "p16964",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p16967",
+            "request": "launch",
+            "mainClass": "p16967",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p16973",
+            "request": "launch",
+            "mainClass": "p16973",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1699",
+            "request": "launch",
+            "mainClass": "p1699",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p17070",
+            "request": "launch",
+            "mainClass": "p17070",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p17086",
+            "request": "launch",
+            "mainClass": "p17086",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p17090",
+            "request": "launch",
+            "mainClass": "p17090",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p17129",
+            "request": "launch",
+            "mainClass": "p17129",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p17135",
+            "request": "launch",
+            "mainClass": "p17135",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p17141",
+            "request": "launch",
+            "mainClass": "p17141",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1719",
+            "request": "launch",
+            "mainClass": "p1719",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p17265",
+            "request": "launch",
+            "mainClass": "p17265",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p17352",
+            "request": "launch",
+            "mainClass": "p17352",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p17396",
+            "request": "launch",
+            "mainClass": "p17396",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p17472",
+            "request": "launch",
+            "mainClass": "p17472",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1748",
+            "request": "launch",
+            "mainClass": "p1748",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1753",
+            "request": "launch",
+            "mainClass": "p1753",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p17616",
+            "request": "launch",
+            "mainClass": "p17616",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1783",
+            "request": "launch",
+            "mainClass": "p1783",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p17836",
+            "request": "launch",
+            "mainClass": "p17836",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p17931",
+            "request": "launch",
+            "mainClass": "p17931",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p18115",
+            "request": "launch",
+            "mainClass": "p18115",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p18126",
+            "request": "launch",
+            "mainClass": "p18126",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1822",
+            "request": "launch",
+            "mainClass": "p1822",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p18223",
+            "request": "launch",
+            "mainClass": "p18223",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p18404",
+            "request": "launch",
+            "mainClass": "p18404",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p18405",
+            "request": "launch",
+            "mainClass": "p18405",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1904",
+            "request": "launch",
+            "mainClass": "p1904",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1913",
+            "request": "launch",
+            "mainClass": "p1913",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1937",
+            "request": "launch",
+            "mainClass": "p1937",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1952",
+            "request": "launch",
+            "mainClass": "p1952",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1956",
+            "request": "launch",
+            "mainClass": "p1956",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1967",
+            "request": "launch",
+            "mainClass": "p1967",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1972",
+            "request": "launch",
+            "mainClass": "p1972",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p19751",
+            "request": "launch",
+            "mainClass": "p19751",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1976",
+            "request": "launch",
+            "mainClass": "p1976",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p1991",
+            "request": "launch",
+            "mainClass": "p1991",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2002",
+            "request": "launch",
+            "mainClass": "p2002",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p20055",
+            "request": "launch",
+            "mainClass": "p20055",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p20057",
+            "request": "launch",
+            "mainClass": "p20057",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2033",
+            "request": "launch",
+            "mainClass": "p2033",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p20364",
+            "request": "launch",
+            "mainClass": "p20364",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p20437",
+            "request": "launch",
+            "mainClass": "p20437",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p21278",
+            "request": "launch",
+            "mainClass": "p21278",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p21316",
+            "request": "launch",
+            "mainClass": "p21316",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2146",
+            "request": "launch",
+            "mainClass": "p2146",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2156",
+            "request": "launch",
+            "mainClass": "p2156",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2178",
+            "request": "launch",
+            "mainClass": "p2178",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p21937",
+            "request": "launch",
+            "mainClass": "p21937",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2225",
+            "request": "launch",
+            "mainClass": "p2225",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2234",
+            "request": "launch",
+            "mainClass": "p2234",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2251",
+            "request": "launch",
+            "mainClass": "p2251",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2294",
+            "request": "launch",
+            "mainClass": "p2294",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2304",
+            "request": "launch",
+            "mainClass": "p2304",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p23286",
+            "request": "launch",
+            "mainClass": "p23286",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p23794",
+            "request": "launch",
+            "mainClass": "p23794",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2412",
+            "request": "launch",
+            "mainClass": "p2412",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2422",
+            "request": "launch",
+            "mainClass": "p2422",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p24263",
+            "request": "launch",
+            "mainClass": "p24263",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p24418",
+            "request": "launch",
+            "mainClass": "p24418",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2445",
+            "request": "launch",
+            "mainClass": "p2445",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2446",
+            "request": "launch",
+            "mainClass": "p2446",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2447",
+            "request": "launch",
+            "mainClass": "p2447",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2522",
+            "request": "launch",
+            "mainClass": "p2522",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p25377",
+            "request": "launch",
+            "mainClass": "p25377",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p25418",
+            "request": "launch",
+            "mainClass": "p25418",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p25516",
+            "request": "launch",
+            "mainClass": "p25516",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p25631",
+            "request": "launch",
+            "mainClass": "p25631",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2567",
+            "request": "launch",
+            "mainClass": "p2567",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2606",
+            "request": "launch",
+            "mainClass": "p2606",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p26169",
+            "request": "launch",
+            "mainClass": "p26169",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2617",
+            "request": "launch",
+            "mainClass": "p2617",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2628",
+            "request": "launch",
+            "mainClass": "p2628",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p26489",
+            "request": "launch",
+            "mainClass": "p26489",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2660",
+            "request": "launch",
+            "mainClass": "p2660",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2665",
+            "request": "launch",
+            "mainClass": "p2665",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2668",
+            "request": "launch",
+            "mainClass": "p2668",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p27433",
+            "request": "launch",
+            "mainClass": "p27433",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2747",
+            "request": "launch",
+            "mainClass": "p2747",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2749",
+            "request": "launch",
+            "mainClass": "p2749",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2816",
+            "request": "launch",
+            "mainClass": "p2816",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2869",
+            "request": "launch",
+            "mainClass": "p2869",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2896",
+            "request": "launch",
+            "mainClass": "p2896",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2961",
+            "request": "launch",
+            "mainClass": "p2961",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p29701",
+            "request": "launch",
+            "mainClass": "p29701",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2979",
+            "request": "launch",
+            "mainClass": "p2979",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2_hyundai_auto",
+            "request": "launch",
+            "mainClass": "p2_hyundai_auto",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p30106",
+            "request": "launch",
+            "mainClass": "p30106",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p30458",
+            "request": "launch",
+            "mainClass": "p30458",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p3055",
+            "request": "launch",
+            "mainClass": "p3055",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p3084",
+            "request": "launch",
+            "mainClass": "p3084",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p3085",
+            "request": "launch",
+            "mainClass": "p3085",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p31472",
+            "request": "launch",
+            "mainClass": "p31472",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p31575",
+            "request": "launch",
+            "mainClass": "p31575",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p3182",
+            "request": "launch",
+            "mainClass": "p3182",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p31883",
+            "request": "launch",
+            "mainClass": "p31883",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p3190",
+            "request": "launch",
+            "mainClass": "p3190",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p32622",
+            "request": "launch",
+            "mainClass": "p32622",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p33612",
+            "request": "launch",
+            "mainClass": "p33612",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p33613",
+            "request": "launch",
+            "mainClass": "p33613",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p3584",
+            "request": "launch",
+            "mainClass": "p3584",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p3758",
+            "request": "launch",
+            "mainClass": "p3758",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p4158",
+            "request": "launch",
+            "mainClass": "p4158",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p4256",
+            "request": "launch",
+            "mainClass": "p4256",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p4358",
+            "request": "launch",
+            "mainClass": "p4358",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p4698",
+            "request": "launch",
+            "mainClass": "p4698",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p4803",
+            "request": "launch",
+            "mainClass": "p4803",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p5052",
+            "request": "launch",
+            "mainClass": "p5052",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p5107",
+            "request": "launch",
+            "mainClass": "p5107",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p5347",
+            "request": "launch",
+            "mainClass": "p5347",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p5427",
+            "request": "launch",
+            "mainClass": "p5427",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p5557",
+            "request": "launch",
+            "mainClass": "p5557",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p5639",
+            "request": "launch",
+            "mainClass": "p5639",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p5972",
+            "request": "launch",
+            "mainClass": "p5972",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p6087",
+            "request": "launch",
+            "mainClass": "p6087",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p6146",
+            "request": "launch",
+            "mainClass": "p6146",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p6159",
+            "request": "launch",
+            "mainClass": "p6159",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p6593",
+            "request": "launch",
+            "mainClass": "p6593",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p7490",
+            "request": "launch",
+            "mainClass": "p7490",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p7571",
+            "request": "launch",
+            "mainClass": "p7571",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p7576",
+            "request": "launch",
+            "mainClass": "p7576",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p8911",
+            "request": "launch",
+            "mainClass": "p8911",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p8949",
+            "request": "launch",
+            "mainClass": "p8949",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p9038",
+            "request": "launch",
+            "mainClass": "p9038",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p9184",
+            "request": "launch",
+            "mainClass": "p9184",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p9251",
+            "request": "launch",
+            "mainClass": "p9251",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p9252",
+            "request": "launch",
+            "mainClass": "p9252",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p9328",
+            "request": "launch",
+            "mainClass": "p9328",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p9358",
+            "request": "launch",
+            "mainClass": "p9358",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p9372",
+            "request": "launch",
+            "mainClass": "p9372",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p9656",
+            "request": "launch",
+            "mainClass": "p9656",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p9934",
+            "request": "launch",
+            "mainClass": "p9934",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "practice1",
+            "request": "launch",
+            "mainClass": "practice1",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "r1260",
+            "request": "launch",
+            "mainClass": "r1260",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p15649",
+            "request": "launch",
+            "mainClass": "백트래킹문제풀이.p15649",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p2776",
+            "request": "launch",
+            "mainClass": "이분탐색문제풀이.p2776",
+            "projectName": "codeingTest_38a480ee"
+        },
+        {
+            "type": "java",
+            "name": "p7795",
+            "request": "launch",
+            "mainClass": "이분탐색문제풀이.p7795",
+            "projectName": "codeingTest_38a480ee"
+        }
+    ]
+}
